@@ -10,13 +10,12 @@ All images, icons, logos, and graphics stored here are delivered through a **fas
 Use this base URL to access your assets:
 https://cdn.jsdelivr.net/gh/M4cHF/assets/
 
-
 Example usage:
 
 ```html
 <img src="https://cdn.jsdelivr.net/gh/M4cHF/assets/tafkir-images/logo.png" alt="Logo">
 ```
-
+---
 ## 🌐 Why use jsDelivr CDN instead of Raw GitHub links?
 
 Using **jsDelivr CDN** provides several important advantages:
